@@ -1,7 +1,7 @@
 {
   "name": "nether-bot1",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index(1).js",
   "scripts": {
     "start": "node index.js"
   },
