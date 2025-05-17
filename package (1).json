@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index(1).js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index(1).js"
   },
   "dependencies": {
     "mineflayer": "^4.5.0"
