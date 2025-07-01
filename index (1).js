@@ -10,7 +10,7 @@ const bot = mineflayer.createBot({
 });
 
 const password = "abdu2006";
-const loginPassword = "82782782";
+const loginPassword = "";
 
 bot.on("messagestr", (message) => {
   console.log(message);
